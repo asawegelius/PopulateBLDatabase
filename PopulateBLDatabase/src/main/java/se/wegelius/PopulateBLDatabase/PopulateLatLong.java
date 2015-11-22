@@ -14,8 +14,7 @@ import com.google.maps.model.GeocodingResult;
 
 public class PopulateLatLong {
 
-
-	public void oneDaysLatLongs(String apiKey){
+	public void oneDaysLatLongs(String apiKey) {
 		Connection connection = null;
 		String query1 = "SELECT street,zip,district FROM address limit 1;";
 		String query2 = "INSERT INTO address_with_location(street,zip,district,lat,lng)VALUES(?,?,?,?,?);";
@@ -32,7 +31,7 @@ public class PopulateLatLong {
 		} catch (SQLException e) {
 			System.err.println("There was an error disabling autocommit");
 		}
-		for(int i = 0; i < 2500; i++){
+		for (int i = 0; i < 2500; i++) {
 			try {
 				pstmt1 = connection.prepareStatement(query1);
 				pstmt2 = connection.prepareStatement(query2);
@@ -41,16 +40,21 @@ public class PopulateLatLong {
 					String street = rs.getString("street");
 					String zip = rs.getString("zip");
 					String district = rs.getString("district");
-					String address = street + "," + zip + "," + district;
+					String address = street + "," + zip ;
 					Double[] latLng = getLatLong(address, apiKey);
-					pstmt2.setString(1, street);
-					pstmt2.setString(2, zip);
-					pstmt2.setString(3, district);
-					pstmt2.setDouble(4, latLng[0]);
-					pstmt2.setDouble(5, latLng[1]);
-					pstmt2.execute();
-					connection.commit();
-					System.err.println("The transaction was successfully executed");
+					if (latLng[0] != null) {
+						pstmt2.setString(1, street);
+						pstmt2.setString(2, zip);
+						pstmt2.setString(3, district);
+						pstmt2.setDouble(4, latLng[0]);
+						pstmt2.setDouble(5, latLng[1]);
+						pstmt2.execute();
+						connection.commit();
+						System.err.println("The transaction was successfully executed");
+					}
+					else{
+						System.err.println("got no location for address " + address);
+					}
 				}
 			} catch (SQLException e) {
 				try {
@@ -64,9 +68,7 @@ public class PopulateLatLong {
 			}
 		}
 	}
-	
-	
-	
+
 	public Double[] getLatLong(String address, String apiKey) {
 		GeoApiContext context = new GeoApiContext().setApiKey(apiKey);
 		GeocodingResult[] results = null;
@@ -76,8 +78,10 @@ public class PopulateLatLong {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		coding[0] = results[0].geometry.location.lat;
-		coding[1] = results[0].geometry.location.lng;
+		if (results.length > 0) {
+			coding[0] = results[0].geometry.location.lat;
+			coding[1] = results[0].geometry.location.lng;
+		}
 		return coding;
 	}
 
