@@ -1,0 +1,1040 @@
+1;"Fåredammen 9";"5300";"Kerteminde";55.4471997;10.6642523
+2;"Stagstedvej 33";"9460";"Brovst";57.102933;9.390851999999999
+3;"Linkøpingvej 6";"4900";"Nakskov";54.828269;11.164588
+4;"Lundbyvej 62 A";"5700";"Svendborg";54.9904367;10.6066992
+5;"Orte Byvej 16";"5560";"Aarup";55.349452;10.0927849
+6;"Snekkevej 17";"4040";"Jyllinge";55.741553;12.101485
+7;"Vesterled 18";"6818";"Årre";55.528315;8.650803999999999
+8;"Rådhuspladsen 4";"1550";"København V";55.676766;12.5675139
+9;"Klaksvej 9";"4262";"Sandved";55.26667;11.505853
+10;"Frederiksdalsvej 21";"2830";"Virum";55.7964216;12.4793513
+11;"Fåborgvej 11";"5750";"Ringe";55.24972;10.364927
+12;"Kovangen 501";"3480";"Fredensborg";55.990163;12.397593
+13;"Fredensgade 26-28";"8000";"Aarhus C";56.1533052;10.2086545
+14;"Tværvej 9";"8410";"Rønde";56.257151;10.523825
+15;"Rønnevej 8";"4070";"Kirke Hyllinge";55.686514;11.847526
+16;"Ringstedgade 23";"4000";"Roskilde";55.6391317;12.0761169
+17;"Musvitvej 17";"8721";"Daugård";55.7345;9.706127
+18;"Nordkranvej 2";"3540";"Lynge";55.8328538;12.3077837
+19;"Edison Park 1";"6715";"Esbjerg N";55.51050009999999;8.4841153
+20;"Industrivej 11";"6640";"Lunderskov";55.491449;9.297476
+21;"Puglundvej 14";"7200";"Grindsted";55.647712;8.796992
+22;"Glostrup Torv 6-10";"2600";"Glostrup";55.6652089;12.3977993
+23;"Toftebæksvej 2";"2800";"Kgs.Lyngby";55.771323;12.502861
+24;"Jernbanegade 18";"6700";"Esbjerg";55.467236;8.457362999999999
+25;"Stjernegade 17";"3000";"Helsingør";56.03517429999999;12.6103064
+26;"Grønlandsvej 28 D";"8700";"Horsens";55.8559125;9.859375199999999
+27;"Svejstrupvej 157";"8920";"Randers NV";56.478213;9.943228
+28;"Sønderskovvej 1 A";"4180";"Sorø";55.420494;11.568815
+29;"Ullerødvej 1";"2980";"Kokkedal";55.9156475;12.4998479
+30;"Nørregade 51";"9870";"Sindal";57.47561899999999;10.201514
+31;"Smedevænget 3";"7000";"Fredericia";55.582007;9.768334
+32;"Sankelmarksvej 28";"8600";"Silkeborg";56.1739097;9.519838499999999
+33;"Fåborgvej 84";"5762";"Vester Skerninge";55.074707;10.444421
+34;"Industrivej 16";"5450";"Otterup";55.511914;10.407291
+35;"Lyngevej 24";"4180";"Sorø";55.389537;11.576866
+36;"Wesselsvej 43";"4700";"Næstved";55.233634;11.7346708
+37;"Toppen 8";"9500";"Hobro";56.6716;9.8569796
+38;"Gl Strandvej 13";"3050";"Humlebæk";55.96925290000001;12.5430501
+39;"Svendborgvej 73";"5772";"Kværndrup";55.16837599999999;10.530201
+40;"Solbjergvej 3";"2000";"Frederiksberg";55.6809957;12.5332865
+41;"Orebygårdvej 13";"7400";"Herning";56.157159;8.929741
+42;"Ringkøbingvej 1";"7442";"Engesvang";56.1367319;9.348415
+43;"Resdal Bakke 43";"8600";"Silkeborg";56.223467;9.483165
+44;"Gartnervej 4";"7430";"Ikast";56.1294871;9.1773091
+45;"Asbækhedevej 6";"7490";"Aulum";56.229906;8.792779
+46;"Norgesvej 2";"8450";"Hammel";56.247992;9.857175999999999
+47;"Oksenbjergevej 10";"7323";"Give";55.857568;9.27854
+48;"Ringklostervej 7";"8660";"Skanderborg";56.0088729;9.9829399
+49;"Kragerisvej 7";"6870";"Ølgod";55.838271;8.661636
+50;"Solbakkevej 13";"8766";"Nørre Snede";55.9623715;9.3902544
+51;"Hærvejen 9";"6500";"Vojens";55.162284;9.370016999999999
+52;"Langgade 77";"5750";"Ringe";55.207581;10.402176
+53;"Farverhus 27";"6200";"Aabenraa";55.0324684;9.389516799999999
+54;"Søndergade 26";"7830";"Vinderup";56.4804426;8.7782826
+55;"Kærvej 8";"6200";"Aabenraa";54.929655;9.304941999999999
+56;"Sluphusvej 2";"4000";"Roskilde";55.665989;11.960784
+57;"Flensborglandevej 36";"6270";"Tønder";54.932346;8.989385
+58;"Stockholmsgade 43";"2100";"København Ø";55.691727;12.580833
+59;"Sønderstrupvej 119";"4360";"Kirke Eskilstrup";55.588021;11.766912
+60;"Torvald Køhlsvej 29";"8300";"Odder";55.97606409999999;10.1473086
+61;"Strøybergsvej 24";"9000";"Aalborg";57.04485649999999;9.889266500000002
+62;"Pilebækken 11";"5970";"Ærøskøbing";54.887069;10.410712
+63;"Bjernedevej 24";"2700";"Brønshøj";55.699801;12.479625
+64;"Nørregade 36";"1165";"København K";55.6819666;12.571197
+65;"Landemærket 3-5";"1119";"København K";55.681634;12.575438
+66;"Byvej 10";"8370";"Hadsten";56.309816;10.09354
+67;"Kystvej 6";"9280";"Storvorde";56.980649;10.300395
+68;"Skelhøjvej 7";"6800";"Varde";55.67907899999999;8.68238
+69;"Vivaldisvej 17";"9200";"Aalborg SV";57.008831;9.822846
+70;"Nørregade 14";"9370";"Hals";57.058678;10.3736789
+71;"Gartnervænget Øst 18";"5240";"Odense NØ";55.40471700000001;10.475451
+72;"Pejrupvej 63";"5560";"Aarup";55.358429;10.141949
+73;"Hobrovej 52";"8830";"Tjele";56.535424;9.613825
+74;"Dyndengvej 2";"4291";"Ruds Vedby";55.566944;11.4061679
+75;"Havnegade 67";"5000";"Odense C";55.42398799999999;10.386828
+76;"Fælledvej 16";"6000";"Kolding";55.5183646;9.4627514
+77;"Hestkærvej 44";"7200";"Grindsted";55.720087;8.825191000000002
+78;"Glimvej 12";"4000";"Roskilde";55.60827519999999;12.0250174
+79;"Stændertorvet 4";"4000";"Roskilde";55.64099909999999;12.0806469
+80;"Slangerupgade 21";"2200";"København N";55.70485859999999;12.5466598
+81;"Ryvangs Allé 18";"2100";"København Ø";55.72053099999999;12.572384
+82;"Hammerensgade 1";"1267";"København K";55.6883546;12.5901153
+83;"Åstruphegnet 25";"8500";"Grenaa";56.425895;10.882263
+84;"Gl. Mårsøvej 5";"4300";"Holbæk";55.7305356;11.6326837
+85;"Fritz Sybergsvej 10";"5600";"Faaborg";55.103034;10.2305497
+86;"Algade 33";"9700";"Brønderslev";57.26800009999999;9.9467842
+87;"Plantagevej 1";"5450";"Otterup";55.516111;10.397796
+88;"Gammel Kongevej 60";"1850";"Frederiksberg C";55.6737818;12.5541298
+89;"Morten Peders Vej 10";"5771";"Stenstrup";55.1287391;10.5029982
+90;"Holmevej 41";"5471";"Søndersø";55.4759646;10.2691626
+91;"Hedegårdsvej 15";"6261";"Bredebro";55.000851;8.802272
+92;"Rolighedsvej 7";"6670";"Holsted";55.49305560000001;8.9132204
+93;"Septembervej 215";"2860";"Søborg";55.7273101;12.4566589
+94;"Vestergade 3";"8000";"Aarhus C";56.15759;10.206408
+95;"Voldbyvej 77";"8464";"Galten";56.197953;9.906506
+96;"Vestergade 32";"5471";"Søndersø";55.514665;10.168704
+97;"Bakkedraget 7";"6400";"Sønderborg";54.9194931;9.775311799999999
+98;"Byvejen 19";"6818";"Årre";55.5749418;8.5933694
+99;"Baunegårdsvej 27";"2820";"Gentofte";55.7440297;12.5452549
+100;"Bennebo Gade 16";"4440";"Mørkøv";55.636185;11.457225
+101;"Planteskolevej 23";"2690";"Karlslunde";55.561421;12.256784
+102;"Hermodsvej 18";"8230";"Åbyhøj";56.1528739;10.1742882
+103;"Lilleåvej 51";"7500";"Holstebro";56.318918;8.435564
+104;"Ørbækgårds Alle 719";"2970";"Hørsholm";55.881226;12.490481
+105;"Sjællandsgade 40";"9000";"Aalborg";57.04129889999999;9.9392224
+106;"Brøndbakvej 51";"9740";"Jerslev J";57.27886299999999;10.206558
+107;"Gl. Århusvej 243";"8800";"Viborg";56.415995;9.411627
+108;"Vesterbrogade 12";"1620";"København V";55.6733995;12.5601161
+109;"Nordre Industrigade 10";"9550";"Mariager";56.677763;10.071747
+110;"Vestergade 9";"6792";"Rømø";55.085578;8.557527
+111;"Høje Skodsborgvej 24";"2942";"Skodsborg";55.82868;12.573388
+112;"Refsgårdvej 2";"6040";"Egtved";55.641948;9.286190999999999
+113;"Odensevej 38";"5690";"Tommerup";55.2951723;10.2235136
+114;"Juulsvej 7";"4720";"Præstø";55.1241763;12.0650733
+115;"Øster Søgade 8";"1357";"København K";55.6869273;12.5664132
+116;"Tanggårdsvej 13";"2680";"Solrød Strand";55.549389;12.239929
+117;"Torpevej 8";"5900";"Rudkøbing";54.912748;10.743626
+118;"Holmebuen 7";"2690";"Karlslunde";55.56176800000001;12.24539
+119;"Brushøjvej 8";"8471";"Sabro";56.216572;10.095109
+120;"Nørregade 16";"5000";"Odense C";55.3973679;10.3891959
+121;"Industrivej 1";"7280";"Sønder Felding";55.933212;8.783337
+122;"Jernbanegade 58";"4000";"Roskilde";55.6378426;12.0793245
+123;"Skamstrupvej 118";"4440";"Mørkøv";55.58553999999999;11.4618819
+124;"Meldahlsgade 5";"1613";"København V";55.6747344;12.5612942
+125;"Gæslingestien 7";"3200";"Helsinge";56.04306399999999;12.251602
+126;"Torvestrædet 4";"4560";"Vig";55.852658;11.579754
+127;"Sorø Landevej 275";"4230";"Skælskør";55.29074;11.337441
+128;"Ilbjergvej 8";"7870";"Roslev";56.703772;9.015137
+129;"Sortedam Dossering 59";"2100";"København Ø";55.69329820000001;12.5709371
+130;"Holstebrovej 38 E";"7830";"Vinderup";56.45314;8.761291
+131;"Vesthavnen 13";"6990";"Ulfborg";56.36951;8.1210983
+132;"Klokkelyng 6";"2830";"Virum";55.7821873;12.46562
+133;"Fuglevænget 36";"6990";"Ulfborg";56.3680725;8.123429699999999
+134;"Havnevej 2";"6990";"Ulfborg";56.371447;8.122034
+135;"Skolevej 24";"6500";"Vojens";55.268991;9.180088999999999
+136;"Bækkeskovvej 15";"2665";"Vallensbæk Strand";55.61868459999999;12.3826767
+137;"Søndergade 39";"5450";"Otterup";55.510873;10.39932
+138;"Grydehøjsvej 15";"4941";"Bandholm";54.84604;11.432751
+139;"Militærvej 15";"4700";"Næstved";55.2473758;11.7651532
+140;"Havdal 1";"8500";"Grenaa";56.4415209;10.7866759
+141;"Bispebjergvej 53";"2400";"København NV";55.716873;12.535716
+142;"Ørnsøvej 5";"8600";"Silkeborg";56.16098700000001;9.529315
+143;"Løserupvej 39";"4300";"Holbæk";55.7692479;11.7245609
+144;"Åparken 4";"4370";"Store Merløse";55.54813;11.7186233
+145;"Bygangen 15";"2620";"Albertslund";55.6568998;12.3549025
+146;"Stenlund 7";"5600";"Faaborg";55.174314;10.202439
+147;"Amaliegade 2 D";"8700";"Horsens";55.8623875;9.855032399999999
+148;"Drewsensvej 2";"5000";"Odense C";55.3937532;10.4001234
+149;"Koldingvej 61";"6040";"Egtved";55.5592007;9.408523599999999
+150;"Ringebyvejen 2";"3700";"Rønne";55.109285;14.800197
+151;"Vesterende 54";"6261";"Bredebro";55.087396;8.6555959
+152;"Borgergade 75";"8600";"Silkeborg";56.1809389;9.5488412
+153;"Rådhusvej 8";"4180";"Sorø";55.43499;11.561267
+154;"Elmedalen 16";"3540";"Lynge";55.83994999999999;12.273389
+155;"Vestertorv 16";"8900";"Randers C";56.461205;10.0302779
+156;"Martinsvej 7-9";"1926";"Frederiksberg C";55.680253;12.556438
+157;"Tofteledet 16";"8330";"Beder";56.054133;10.196914
+158;"Ladelundvej 25";"6650";"Brørup";55.4822453;9.025521099999999
+159;"Henrik Hansensgade 15";"3740";"Svaneke";55.133733;15.144415
+160;"Oldenvej 6";"3490";"Kvistgård";55.9942868;12.4990533
+161;"Filosofgangen 3";"5000";"Odense C";55.393167;10.3857649
+162;"Polititorvet 1";"1567";"København V";55.6699107;12.5710218
+163;"Godthåbsvej 50";"6100";"Haderslev";55.264522;9.470970999999999
+164;"Fuglsangs Alle 29";"7430";"Ikast";56.1425243;9.1683518
+165;"Degnevænget 121";"9800";"Hjørring";57.50730900000001;10.052123
+166;"Bredgade 79";"5492";"Vissenbjerg";55.379637;10.104839
+167;"Center Alle 6";"4683";"Rønnede";55.2599575;12.0308206
+168;"Drosselvænget 11";"4671";"Strøby";55.3978571;12.3175261
+169;"Vejlebæksvej 75";"5300";"Kerteminde";55.4267913;10.6338219
+170;"Sødalsparken 18";"8220";"Brabrand";56.15423449999999;10.0935032
+171;"Dalumvej 77";"5250";"Odense SV";55.367183;10.372502
+172;"Nørhedevej 24";"6880";"Tarm";55.804201;8.483779
+173;"Nr Bjertvej 21";"7830";"Vinderup";56.473302;8.761895
+174;"Væselvej 50";"7800";"Skive";56.5395339;9.0172031
+175;"Bakkelyparken 60";"8680";"Ry";56.08355899999999;9.768032999999999
+176;"Gråhedevej 1";"7190";"Billund";55.741236;9.0192219
+177;"Hovedgaden 6";"2970";"Hørsholm";55.8788348;12.4986822
+178;"Storegade 6";"8960";"Randers SØ";56.43971699999999;10.134994
+179;"Hjøllundvej 30";"7400";"Herning";56.013203;8.926618
+180;"Grønningen 14";"5230";"Odense M";55.38288799999999;10.386447
+181;"Apotekerstræde 6";"4700";"Næstved";55.231207;11.7575179
+182;"Kirkegade 37";"6940";"Lem St";56.03034;8.3876198
+183;"Lektorvej 50";"9000";"Aalborg";57.027559;9.938217999999999
+184;"Ålholmvej 134";"7400";"Herning";56.1541742;8.943923
+185;"Gershøjvej 4";"4070";"Kirke Hyllinge";55.703714;11.962858
+186;"Rosenvej 15";"2950";"Vedbæk";55.84078299999999;12.549811
+187;"Oliefabriksvej 57-61";"2770";"Kastrup";55.624758;12.592739
+188;"Energivej 13";"2750";"Ballerup";55.724121;12.379975
+189;"Tjørneager 16";"4330";"Hvalsø";55.59167;11.851634
+190;"Højmevej 36-38";"5250";"Odense SV";55.357451;10.3277439
+191;"Thomas Olesen Løkkens Vej 6";"9200";"Aalborg SV";57.01069099999999;9.88472
+192;"Hangarvej F 12";"4000";"Roskilde";55.593512;12.131145
+193;"Storegade 29";"6430";"Nordborg";55.0576009;9.7453749
+194;"Hæstvej 30";"8380";"Trige";56.270278;10.173361
+195;"Lærkemarken 5";"3770";"Allinge";55.250393;14.823051
+196;"Hunderupvej 71";"5230";"Odense M";55.386163;10.388425
+197;"Charlottedal Alle 4";"4200";"Slagelse";55.381122;11.378308
+198;"Kildevang 4";"4000";"Roskilde";55.6683706;11.9811922
+199;"Studiestræde 6";"1455";"København K";55.679054;12.570698
+200;"Skivumvej 2";"9240";"Nibe";56.88817900000001;9.573312999999999
+201;"Poul Thøstesensvej 15";"6857";"Blåvand";55.551175;8.135461
+202;"Gribskovvej 2";"2100";"København Ø";55.715792;12.547294
+203;"Klintevej 10";"3720";"Aakirkeby";55.081033;14.841743
+204;"Frihedsvej 7";"2000";"Frederiksberg";55.677299;12.513237
+205;"Engmarksvej 34";"8700";"Horsens";55.924069;9.969781
+206;"Skjernvej 47";"7280";"Sønder Felding";55.946296;8.7934707
+207;"Marselis Boulevard 16";"8000";"Aarhus C";56.1423059;10.2052558
+208;"Troldemosevej 38";"9620";"Aalestrup";56.663934;9.554632999999999
+209;"Grindstedvej 75";"7184";"Vandel";55.717415;9.164875
+210;"Store Strandstræde 3";"1255";"København K";55.6809933;12.5880107
+211;"Nordmarken 4";"5750";"Ringe";55.25098699999999;10.483611
+212;"Tromlevænget 7";"4760";"Vordingborg";55.0447165;11.9668817
+213;"Skrevenstenvej 20";"6200";"Aabenraa";55.069468;9.4843689
+214;"Bakkegårdsvej 209";"3050";"Humlebæk";55.965228;12.500709
+215;"Østergade 4 C";"4660";"Store Heddinge";55.3090669;12.3900634
+216;"Stigsborgvej 60";"9400";"Nørresundby";57.0585898;9.9476155
+217;"Maskinvej 5";"2860";"Søborg";55.741485;12.479624
+218;"Hasselbakken 13";"8361";"Hasselager";56.109753;10.099358
+219;"Slippen 22";"7441";"Bording";56.116142;9.4172809
+220;"Geelskovparken 10";"2830";"Virum";55.801143;12.490392
+221;"Væggerløsevej 2";"4873";"Væggerløse";54.70931299999999;11.919408
+222;"Starupvej 16";"6040";"Egtved";55.59552;9.433240999999999
+223;"Perlegade 97";"6400";"Sønderborg";54.913878;9.796175
+224;"Østergade 2 B";"5600";"Faaborg";56.481477;9.625764
+225;"Søviggårdvej 66";"6851";"Janderup Vestj";55.66940899999999;8.352738
+226;"Kongevejen 25";"9940";"Læsø";57.279715;10.925705
+227;"Ved Vandløbet 13";"2610";"Rødovre";55.703939;12.450918
+228;"Tranemosevej 2";"8305";"Samsø";55.831641;10.549262
+229;"Lille Brostræde 2";"6000";"Kolding";55.488803;9.475226
+230;"Taastrup Hovedgade 89";"2630";"Taastrup";55.6496817;12.3015311
+231;"Hvidovre Strandvej 63";"2650";"Hvidovre";55.622446;12.493895
+232;"Lindevej 30";"3060";"Espergærde";55.9904124;12.5508153
+233;"Batteriet 18";"4100";"Ringsted";55.4521182;11.8033789
+234;"Mejlsvej 4";"6800";"Varde";55.66731739999999;8.5163944
+235;"Stengade 53";"3000";"Helsingør";56.0344984;12.6123901
+236;"Borggårdsparken 100";"7080";"Børkop";55.6367436;9.658604
+237;"Ejgårdsvej 13";"2920";"Charlottenlund";55.7584977;12.5754851
+238;"Strandgade 4 B";"1401";"København K";55.6726773;12.5879077
+239;"Sinding Hedevej 89";"8600";"Silkeborg";56.20905699999999;9.449436
+240;"Smidstruplund 15";"2950";"Vedbæk";55.864919;12.546898
+241;"Over Søen 74";"9460";"Brovst";57.133333;9.555760099999999
+242;"Bylderup-Bov Bygade 20";"6372";"Bylderup-Bov";54.9402962;9.0844846
+243;"Ligustervej 10";"8600";"Silkeborg";56.1511803;9.4788357
+244;"Flensborglandevej 21";"6270";"Tønder";54.93165399999999;8.988121999999999
+245;"Bækkevej 35";"6650";"Brørup";55.568615;9.031269
+246;"Rungstedvej 1";"2970";"Hørsholm";55.8785055;12.4983373
+247;"Baltorpvej 267";"2750";"Ballerup";55.727161;12.337238
+248;"Nyager 4";"2605";"Brøndby";55.647704;12.385594
+249;"Lindelsevej 19";"4912";"Harpelunde";54.865863;11.09108
+250;"Amager Strandvej 60-64";"2300";"København S";55.664897;12.628793
+251;"Møllemark 5";"8464";"Galten";56.13782699999999;9.952819
+252;"Læsøvej 5";"9800";"Hjørring";57.450894;10.014757
+253;"Markvænget 4";"5700";"Svendborg";55.0469389;10.5858234
+254;"Navervej 20";"7451";"Sunds";56.19302339999999;9.0193509
+255;"Bredhøjvej 2";"8600";"Silkeborg";56.188923;9.557542
+256;"Ved Vesterport 6";"1612";"København V";55.6749638;12.5606426
+257;"Huginsvej 25";"4100";"Ringsted";55.423229;11.789006
+258;"Engbækparken 4";"7361";"Ejstrupholm";55.983527;9.300509
+259;"Frejasvej 2-6";"4100";"Ringsted";55.4332186;11.8010791
+260;"Selandersvej 57";"8920";"Randers NV";56.458351;9.975368999999999
+261;"Mygindvej 16";"5610";"Assens";55.3052182;9.9600075
+262;"Sønderbyvej 4";"6900";"Skjern";55.940952;8.405243
+263;"Søndergade 27";"4130";"Viby Sjælland";55.54675899999999;12.024321
+264;"Munkebakken 27";"8400";"Ebeltoft";56.191168;10.675244
+265;"Omfartsvejen 14";"9490";"Pandrup";57.187448;9.692829
+266;"Tjebberupvej 35 A";"4300";"Holbæk";55.70752599999999;11.769228
+267;"Gammelby Møllevej 20";"6700";"Esbjerg";55.46370169999999;8.488724999999999
+268;"Bakkehegnet 51";"8400";"Ebeltoft";56.199195;10.6850387
+269;"Sandbjerg Strandvej 34";"7130";"Juelsminde";55.71662999999999;10.006182
+270;"Søndermarksvej 20";"8830";"Tjele";56.472547;9.632614
+271;"Vandlingvej 53";"6100";"Haderslev";55.2386658;9.5025409
+272;"Brobjerg Parkvej 105";"8250";"Egå";56.204144;10.260406
+273;"Nordkystvejen 2 F";"8961";"Allingåbro";56.450058;10.289531
+274;"Fynsgade 3";"6400";"Sønderborg";54.9193766;9.821251
+275;"Roskildevej 157";"2620";"Albertslund";55.661423;12.345362
+276;"Troldemosevej 76";"9620";"Aalestrup";56.65522799999999;9.55077
+277;"Industrivænget 13";"3400";"Hillerød";55.9321502;12.2802038
+278;"Skagensvej 388";"9981";"Jerup";57.523459;10.427329
+279;"Skelstrupvej 48";"4900";"Nakskov";54.917834;11.065937
+280;"Kongens Nytorv 30";"1050";"København K";55.68096999999999;12.584608
+281;"Grishøjgårdsvej 185";"9700";"Brønderslev";57.241249;9.885944
+282;"Møgelvej 18";"7752";"Snedsted";56.880955;8.585749999999999
+283;"Gammelmark 12";"6310";"Broager";54.882636;9.721938
+284;"Gammelmosevej 132";"2800";"Kgs.Lyngby";55.756659;12.4904213
+285;"Hvedemarken 16";"4140";"Borup";55.4970864;11.9892921
+286;"Kullinggade 31 C";"5700";"Svendborg";55.0562269;10.6125589
+287;"Store Søndervoldstræde 2";"1419";"København K";55.67055209999999;12.5883849
+288;"Amagertorv 11";"1160";"København K";55.678665;12.57827
+289;"Kjærsbovej 1";"4660";"Store Heddinge";55.3154952;12.2909091
+290;"Præstebuen 7";"5592";"Ejby";55.3617382;9.8670315
+291;"Bolundvej 14";"8740";"Brædstrup";55.926576;9.648240999999999
+292;"Røde Hedevej 89";"9490";"Pandrup";57.17657999999999;9.667584
+293;"Røjbækvej 9";"9640";"Farsø";56.773553;9.346810999999999
+294;"Industrivej 5";"4632";"Bjæverskov";55.461583;12.027382
+295;"Skalbakken 4";"2720";"Vanløse";55.692645;12.484974
+296;"Riisvej 24";"4540";"Fårevejle";55.818374;11.433051
+297;"Bovlund Bjergvej 23";"6535";"Branderup J";55.10186599999999;9.103387999999999
+298;"Markedspladsen 10";"7490";"Aulum";56.265892;8.799721
+299;"Vester Alle 3";"8000";"Aarhus C";56.1532141;10.2011812
+300;"Pilehøjvej 7";"4720";"Præstø";55.074405;12.028043
+301;"Østerbrogade 90";"2100";"København Ø";55.7011396;12.5777301
+302;"Tesdorpfsvej 74";"2000";"Frederiksberg";55.68573499999999;12.5106177
+303;"Ahlgade 15";"4300";"Holbæk";55.7181821;11.709605
+304;"Mads Clausens Vej 18";"9800";"Hjørring";57.442466;10.009376
+305;"Mosetoften 3";"8722";"Hedensted";55.7776917;9.6968533
+306;"Lillehedenvej 4";"8660";"Skanderborg";56.1032428;9.9045647
+307;"Agerkrogen 22";"9500";"Hobro";56.63242899999999;9.811245
+308;"Lyngbyvej 72";"2100";"København Ø";55.7120855;12.560182
+309;"Slagelse Landevej 155";"4242";"Boeslunde";55.288973;11.276336
+310;"Holbergsgade 19";"1057";"København K";55.6786065;12.5901442
+311;"Gl. Aalborgvej 205";"9632";"Møldrup";56.636765;9.499717
+312;"Kastanievej 16";"7130";"Juelsminde";55.81850189999999;10.0521488
+313;"Søndergade 47";"8700";"Horsens";55.861907;9.850684
+314;"Søndertoft 6";"9000";"Aalborg";57.029441;9.892201
+315;"Legindvej 13";"7900";"Nykøbing M";56.761764;8.822998
+316;"Hørmarks Alle 5";"8240";"Risskov";56.19373940000001;10.242477
+317;"Bybjergvej 8";"3060";"Espergærde";55.996072;12.531126
+318;"Kildevej 29";"6940";"Lem St";56.03278899999999;8.386885
+319;"Jernbanegade 11";"6862";"Tistrup";55.713967;8.598694
+320;"Søbyvej 15";"8300";"Odder";55.891489;10.173977
+321;"Rovsingsgade 5";"2100";"København Ø";55.7126065;12.5587347
+322;"Svalehøjvej 12";"3650";"Ølstykke";55.769116;12.139366
+323;"Venusvej 20";"6000";"Kolding";55.5422643;9.4709489
+324;"Nørrevej 31";"9970";"Strandby";57.497443;10.4961819
+325;"Engtoftevej 7";"1816";"Frederiksberg C";55.672622;12.543621
+326;"Strandlodsvej 11";"2300";"København S";55.666469;12.620952
+327;"Sønderlandevej 8";"6270";"Tønder";54.933847;8.876187999999999
+328;"Frederiksværkvej 179";"3300";"Frederiksværk";56.018322;12.059947
+329;"Lee Byvej 54 B";"8850";"Bjerringbro";56.425749;9.676601
+330;"Lindeengen 11";"2740";"Skovlunde";55.7122237;12.3839801
+331;"Lyngby Hovedgade 4";"2800";"Kgs.Lyngby";55.7753423;12.4957734
+332;"Skovdalsvej 2 A";"8300";"Odder";55.98503609999999;10.1515898
+333;"Bag Stadion 3";"4220";"Korsør";55.3385257;11.1472797
+334;"Elmevænget 22";"9430";"Vadum";57.11085;9.853819
+335;"H P Hanssens Gade 7";"6200";"Aabenraa";55.047481;9.42081
+336;"Stavelund 1";"3700";"Rønne";55.09305699999999;14.745602
+337;"Grevens Dal 17";"3760";"Gudhjem";55.210896;14.973968
+338;"Assensvej 5";"4200";"Slagelse";55.417471;11.347183
+339;"Helsingevej 65";"4281";"Gørlev";55.519056;11.207575
+340;"Skovhegnet 6";"3460";"Birkerød";55.845777;12.448306
+341;"Stenøre 19";"7884";"Fur";56.804757;9.020043399999999
+342;"Vestergade 48";"5000";"Odense C";55.395279;10.384923
+343;"Mallingvej 2";"8620";"Kjellerup";56.27612999999999;9.384769
+344;"Sangildvej 18";"8620";"Kjellerup";56.27102900000001;9.275917999999999
+345;"Lyngby Hovedgade 4";"2800";"Kgs. Lyngby";55.7753423;12.4957734
+346;"Østergade 31";"5900";"Rudkøbing";54.93565899999999;10.713913
+347;"Folkvarsvej 28";"2000";"Frederiksberg";55.6832589;12.5324508
+348;"Vestergade 24";"9460";"Brovst";57.09739399999999;9.520883999999999
+349;"Kongelundsvej 294";"2770";"Kastrup";55.6164143;12.5852743
+350;"Hesteskovej 4";"4672";"Klippinge";55.32198;12.302795
+351;"Sygehusvej 14";"9240";"Nibe";56.9792818;9.632667
+352;"Orelundvej 56";"5592";"Ejby";55.351607;9.9012499
+353;"Vråvej 466";"9760";"Vrå";57.36731599999999;9.833033
+354;"Bossevejen 5";"3720";"Aakirkeby";55.097093;14.830702
+355;"Mynderupvej 47";"5762";"Vester Skerninge";55.094707;10.442619
+356;"Gravene 2 C";"5000";"Odense C";55.397916;10.3882632
+357;"Hovedgaden 64 C";"4140";"Borup";55.49944259999999;11.9769616
+358;"Råhøjvænget 35";"8260";"Viby J";56.1326173;10.1138541
+359;"Lyacvej 2";"2800";"Kgs.Lyngby";55.763756;12.508402
+360;"Gammeltorv 8";"1457";"København K";55.6784353;12.5720407
+361;"Trædenvej 4";"8740";"Brædstrup";55.9709083;9.665875800000002
+362;"Strandstræde 8";"4300";"Holbæk";55.72023799999999;11.715232
+363;"Caspar Brands Plads 9";"4220";"Korsør";55.329684;11.140526
+364;"Kragkærvej 13";"9900";"Frederikshavn";57.397206;10.418656
+365;"Bredgade 6";"1260";"København K";55.681341;12.5879359
+366;"Nørre Voldgade 2";"1358";"København K";55.678951;12.5664389
+367;"Pilestræde 65";"1112";"København K";55.681751;12.577279
+368;"Nørrebrogade 34";"2200";"København N";55.6888623;12.5584491
+369;"Havnevej 25";"4591";"Føllenslev";55.7522019;11.3287659
+370;"Hvidemosevej 38";"4070";"Kirke Hyllinge";55.713317;11.8785209
+371;"Åsvej 43";"7700";"Thisted";56.9004495;8.6282734
+372;"Sortemosevej 64";"5892";"Gudbjerg Sydfyn";55.135609;10.625285
+373;"Rytterkær 179";"2765";"Smørum";55.73710699999999;12.291539
+374;"Randerupvej 100";"6780";"Skærbæk";55.11762179999999;8.754541
+375;"Vattrupvej 39 A";"8620";"Kjellerup";56.2875889;9.3586872
+376;"Midholmvej 2";"7752";"Snedsted";56.89685;8.525637999999999
+377;"Silkeborgvej 234";"8230";"Åbyhøj";56.155438;10.167508
+378;"Måløv Værkstedsby 65";"2760";"Måløv";55.752039;12.302299
+379;"Torvet 4";"8881";"Thorsø";56.297338;9.789475999999999
+380;"Østre Hovvej 7";"4520";"Svinninge";55.7151152;11.4621377
+381;"Dalsmøllevej 21";"5750";"Ringe";55.2238774;10.3705238
+382;"Dag Hammarskjølds Gade 4";"9000";"Aalborg";57.0434753;9.9256687
+383;"Hastrupholmvej 4";"8981";"Spentrup";56.537604;9.980088
+384;"Skolevej 4";"9940";"Læsø";57.252551;11.0028
+385;"Vesterbrogade 166";"1800";"Frederiksberg C";55.67041099999999;12.538298
+386;"Krathusvej 14 A";"2920";"Charlottenlund";55.7675674;12.5738697
+387;"Nytorv 2";"4200";"Slagelse";55.4036967;11.3557729
+388;"Vennemosevej 38";"6270";"Tønder";54.9796795;8.869534699999999
+389;"Kastkærvej 131";"6830";"Nørre Nebel";55.771438;8.315771999999999
+390;"Porskærvej 10";"8600";"Silkeborg";56.19094399999999;9.651240999999999
+391;"Skovvænget 2";"4874";"Gedser";54.572554;11.937225
+392;"Stærmosevej 146";"5690";"Tommerup";55.35332099999999;10.233867
+393;"Bakkehøjvej 15";"4792";"Askeby";54.922628;12.167451
+394;"Vølundsvej 4";"3400";"Hillerød";55.93256;12.273802
+395;"Bredgade 153";"9700";"Brønderslev";57.268469;9.9593589
+396;"Havnegade 18";"7100";"Vejle";55.707095;9.539379
+397;"Kirkevænget 7";"6920";"Videbæk";56.06151999999999;8.620932
+398;"Præsteengen 3";"5580";"Nørre Aaby";55.424359;9.830256
+399;"Storegade 12";"4550";"Asnæs";55.811431;11.498205
+400;"Holbækvej 149";"4400";"Kalundborg";55.676679;11.154893
+401;"Gøngehusvej 9";"2950";"Vedbæk";55.8508793;12.5670805
+402;"Islandsgade 34";"4690";"Haslev";55.3238034;11.9369387
+403;"Ankervej 4";"4800";"Nykøbing F";54.807025;11.872631
+404;"Honumvej 35";"8763";"Rask Mølle";55.882838;9.630455
+405;"Nørreparken 43";"7500";"Holstebro";56.3725272;8.6145848
+406;"Pugdalvænget 2";"7480";"Vildbjerg";56.20241;8.760997
+407;"Lønholtvej 8";"3480";"Fredensborg";55.9475177;12.4454713
+408;"Plantage Alle 5";"3200";"Helsinge";56.0059304;12.1093558
+409;"Flegmade 11";"7100";"Vejle";55.7090797;9.5260815
+410;"Hauser Plads 10";"1127";"København K";55.68236;12.5755199
+411;"Havnegade 19";"6700";"Esbjerg";55.46457050000001;8.4533322
+412;"Kåresvej 2";"2880";"Bagsværd";55.7560915;12.4619217
+413;"Havrevænget 35";"9632";"Møldrup";56.617608;9.498095
+414;"Vinkelvej 2";"9850";"Hirtshals";57.58970699999999;9.956676
+415;"Strømgade 2";"9800";"Hjørring";57.4603011;9.9865933
+416;"Neder Hjerkvej 23";"7870";"Roslev";56.69142;8.904781
+417;"Gamle Tøndervej 25";"6200";"Aabenraa";55.033764;9.360414
+418;"Vestergade 45";"6230";"Rødekro";55.073319;9.3263459
+419;"Radbyvej 70";"5320";"Agedrup";55.424053;10.514728
+420;"Pakhusvej 2";"2100";"København Ø";55.697318;12.5935089
+421;"Porsevænget 51";"8464";"Galten";56.151444;9.916566
+422;"Hovedgaden 69";"4295";"Stenlille";55.540874;11.5921819
+423;"Sætting Strandvej 13";"5700";"Svendborg";55.0425428;10.5735778
+424;"Ellekær 6";"2730";"Herlev";55.7207807;12.4257782
+425;"Finlandsgade 14";"8200";"Aarhus N";56.1705608;10.1903271
+426;"Snedkervænget 2";"5560";"Aarup";55.377271;10.05427
+427;"Ved Vigen 12";"2400";"København NV";55.72154699999999;12.527313
+428;"Hellehuse 24";"4174";"Jystrup Midtsj";55.5284734;11.8844677
+429;"Odensegade 7";"2100";"København Ø";55.6997994;12.5790042
+430;"Rosenvængets Allé 4";"2100";"København Ø";55.6987071;12.578926
+431;"Lanciavej 2";"7100";"Vejle";55.674318;9.595312
+432;"Kratbjerg 240";"3480";"Fredensborg";55.968502;12.391124
+433;"Frejasvej 31";"3400";"Hillerød";55.930913;12.285658
+434;"Mejlbyvej 28";"6980";"Tim";56.206225;8.188679
+435;"Bygangen 4";"2620";"Albertslund";55.6567306;12.3548402
+436;"Jernet 4 A";"6000";"Kolding";55.46772379999999;9.4756549
+437;"Ugiltvej 891";"9800";"Hjørring";57.42766919999999;10.0809939
+438;"Industrivej 73";"6740";"Bramming";55.469235;8.667239
+439;"Salbjergvej 41";"4622";"Havdrup";55.55154400000001;12.126948
+440;"Hvidovrevej 94";"2650";"Hvidovre";55.663318;12.473473
+441;"Ålbækvej 1";"4174";"Jystrup Midtsj";55.5143098;11.8661386
+442;"Industrivej 12";"5750";"Ringe";55.24897;10.485423
+443;"Solvænget 1";"3390";"Hundested";55.947402;11.862587
+444;"Kettevej 21";"2650";"Hvidovre";55.64488490000001;12.4576433
+445;"Gasværksvej 9";"4500";"Nykøbing Sj";55.9187597;11.6744895
+446;"Bülowsvej 2";"1870";"Frederiksberg C";55.676637;12.5418514
+447;"Christians Brygge 24";"1559";"København V";55.671698;12.577904
+448;"Herlev Torv 4";"2730";"Herlev";55.7237857;12.4391545
+449;"Hoptrup Hovedgade 2 A";"6100";"Haderslev";55.20557299999999;9.475539
+450;"Randersvej 35";"8200";"Aarhus N";56.175137;10.201901
+451;"Tøndervej 58";"6000";"Kolding";55.4867287;9.466619
+452;"Østergade 16";"1100";"København K";55.680158;12.583785
+453;"Søndergade 48";"9550";"Mariager";56.67151;10.061158
+454;"Søgårdsvej 10";"7500";"Holstebro";56.3870161;8.615922099999999
+455;"Kirkevangen 9";"3540";"Lynge";55.839733;12.267715
+456;"Dagstrupvej 21 A";"8544";"Mørke";56.3496695;10.4121077
+457;"Vejlevej 5";"7260";"Sønder Omme";55.8383175;8.8968236
+458;"Kommenhaven 11";"2730";"Herlev";55.74173700000001;12.43011
+459;"Nonbo Dal 15";"8800";"Viborg";56.409229;9.368836
+460;"Vindeballegade 29";"5970";"Ærøskøbing";54.87517;10.3513819
+461;"Lystruphavevej 7";"8654";"Bryrup";56.024489;9.483068
+462;"Prins Knuds Dæmning 2";"2791";"Dragør";55.588835;12.678477
+463;"Højen 46";"4400";"Kalundborg";55.697258;11.07154
+464;"Kvislemarkvej 18";"4262";"Sandved";55.251163;11.563463
+465;"Alleen 6";"4894";"Øster Ulslev";54.680372;11.587687
+466;"Omfartsvejen 1";"6330";"Padborg";54.8336365;9.3412876
+467;"Stavnsbjergvej 3 C";"6600";"Vejen";55.4934729;9.1133083
+468;"Bredmagevej 11";"8740";"Brædstrup";55.959547;9.55533
+469;"Haslevej 100";"3700";"Rønne";55.11868699999999;14.709116
+470;"Teestrup Overdrevsvej 2";"4690";"Haslev";55.31524;11.891285
+471;"Rengegade 51";"4660";"Store Heddinge";55.295951;12.392879
+472;"Egsgyden 34";"5600";"Faaborg";55.087968;10.103723
+473;"Jernbanevej 15 A";"4230";"Skælskør";55.2531233;11.2948342
+474;"Præstevejen 63";"7800";"Skive";56.531025;8.912467
+475;"Sdr Ommevej 29";"7330";"Brande";55.907236;9.069994
+476;"Hvidovrevej 233";"2650";"Hvidovre";55.64358470000001;12.4784828
+477;"Skjoldhøjvej 30";"9610";"Nørager";56.737521;9.635783
+478;"Rosenørns Alle 9";"1970";"Frederiksberg C";55.6815397;12.5552227
+479;"Vangeledgårdsvej 30";"5260";"Odense S";55.334825;10.362617
+480;"Hældagervej 21";"7120";"Vejle Øst";55.709653;9.592554
+481;"Sletterødvej 43";"5560";"Aarup";55.4352449;10.0730857
+482;"Albuen 16";"6000";"Kolding";55.51631399999999;9.452467
+483;"Engesgaardsvej 81";"9490";"Pandrup";57.227031;9.627336
+484;"Aldrupvej 4";"8860";"Ulstrup";56.346913;9.752251
+485;"Fredens Torv 1";"8000";"Aarhus C";56.153973;10.210497
+486;"Rugholmvej 110";"8260";"Viby J";56.139638;10.143919
+487;"Enebærvej 140";"7500";"Holstebro";56.25592;8.562745999999999
+488;"Bakkegårdsvej 18";"8500";"Grenaa";56.344237;10.856702
+489;"Nyvej 23";"7160";"Tørring";55.885416;9.563831
+490;"Tjelevej 10-12";"7400";"Herning";56.149183;8.934246
+491;"Garvergade 4";"9400";"Nørresundby";57.05954699999999;9.921811
+492;"Tværvej 3";"7190";"Billund";55.7330024;9.112439
+493;"Langebjerg 4";"2850";"Nærum";55.814298;12.526255
+494;"Kettebakken 24";"2942";"Skodsborg";55.835521;12.562609
+495;"Naustok 5";"4440";"Mørkøv";55.632267;11.486151
+496;"Neptunvej 6";"7430";"Ikast";56.13676299999999;9.142108
+497;"Snekkerst Stationsv 23";"3070";"Snekkersten";56.008691;12.581453
+498;"Skovvej 4";"3760";"Gudhjem";55.171664;14.913152
+499;"Fredericiagade 57";"1310";"København K";55.6869569;12.5857934
+500;"Ådalsparken 5";"6710";"Esbjerg V";55.504499;8.403210999999999
+501;"Hedeager 42";"8200";"Aarhus N";56.1966997;10.1802483
+502;"Teglgårdsvej 14";"7441";"Bording";56.121157;9.295062999999999
+503;"Pilegårdsvej 134";"8361";"Hasselager";56.106854;10.07752
+504;"Rebslagervej 3-5";"5471";"Søndersø";55.47717530000001;10.2639271
+505;"Niels Bohrs Vej 38";"8660";"Skanderborg";56.069264;9.997888
+506;"Mads Bjerres Vej 5";"7500";"Holstebro";56.3674;8.637908999999999
+507;"Amagerbrogade 174";"2300";"København S";55.652803;12.611117
+508;"Blegdalsparken 49";"9000";"Aalborg";57.03261699999999;9.89025
+509;"Vesterbrogade 3";"1620";"København V";55.67463739999999;12.5656677
+510;"Grønningen 25";"1270";"København K";55.6903269;12.5891307
+511;"Lendemosevej 4";"2850";"Nærum";55.829325;12.528686
+512;"Store Torv 5";"8000";"Aarhus C";56.1572346;10.2085142
+513;"Grøntoften 2";"2870";"Dyssegård";55.729549;12.524227
+514;"Præstevejen 49";"3230";"Græsted";56.052435;12.298209
+515;"Industrivej Nord 2";"9982";"Ålbæk";57.601446;10.418654
+516;"Søparken 31";"9830";"Tårs";57.38271899999999;10.103411
+517;"Åsvej 40";"4540";"Fårevejle";55.8048983;11.4086875
+518;"Toustrupvej 16";"7400";"Herning";56.1289615;8.898081699999999
+519;"Ryttergårdsvej 120";"3520";"Farum";55.815273;12.354012
+520;"Græsvangen 4";"8381";"Tilst";56.193183;10.108285
+521;"Hornbjergvej 51";"8543";"Hornslet";56.30186699999999;10.306514
+522;"Åtoftevej 2";"7200";"Grindsted";55.69459999999999;8.8377111
+523;"Kirsebærhaven 7";"3480";"Fredensborg";55.97016230000001;12.3991911
+524;"Dueoddevej 10";"7400";"Herning";56.15451539999999;8.9752532
+525;"Askemosevejen 30";"3210";"Vejby";56.051578;12.1413119
+526;"Nygaards Alle 2";"7430";"Ikast";56.1401802;9.1615804
+527;"Vildmosevej 141";"9700";"Brønderslev";57.244553;9.916314999999999
+528;"Hammelvej 218";"8870";"Langå";56.34014999999999;9.8712769
+529;"Smedebakken 27 A";"5600";"Faaborg";55.1028118;10.2744165
+530;"Vesterø Havnegade 92";"9940";"Læsø";57.278845;10.935513
+531;"Bremerholm 29";"1069";"København K";55.678469;12.583424
+532;"Thorvaldsensgade 36";"8000";"Aarhus C";56.15730180000001;10.1951905
+533;"Hylkevej 15";"8660";"Skanderborg";56.004104;9.910622
+534;"Kanehaven 2";"8240";"Risskov";56.2067752;10.2112622
+535;"Ved Milepælen 2 A";"8361";"Hasselager";56.103419;10.087038
+536;"Kjærsager 34";"4330";"Hvalsø";55.600566;11.851422
+537;"Hundslevgyden 85";"5300";"Kerteminde";55.4147146;10.5837099
+538;"Tørslevvej 60";"4050";"Skibby";55.80092;12.017116
+539;"Havrevænget 15";"6990";"Ulfborg";56.274715;8.313208999999999
+540;"Bøgestien 7";"8800";"Viborg";56.40043499999999;9.380286
+541;"Bavnshøj 14";"6950";"Ringkøbing";56.0829173;8.2537635
+542;"Kordilgade 42";"4400";"Kalundborg";55.679751;11.092676
+543;"Struenseegade 15 A";"2200";"København N";55.6871513;12.5495487
+544;"Mariendalsvej 105";"9900";"Frederikshavn";57.4480075;10.4584244
+545;"Thistedvej 59";"9690";"Fjerritslev";57.083824;9.2373619
+546;"Høstlyngen 4";"5270";"Odense N";55.44033200000001;10.399732
+547;"Højbyvej 3";"6900";"Skjern";55.980804;8.646514
+548;"Kuldyssen 7-9";"2630";"Taastrup";55.647523;12.286191
+549;"Esplanaden 40";"1263";"København K";55.6877787;12.5950551
+550;"Viemosevej 56";"2610";"Rødovre";55.711838;12.447872
+551;"Helsingørsgade 61 A";"3400";"Hillerød";55.933649;12.308056
+552;"Rådhuspladsen 59";"1550";"København V";55.67607;12.570729
+553;"Banktorvet 3";"6900";"Skjern";55.947995;8.493397
+554;"Rødebrovej 2";"7600";"Struer";56.4184316;8.4914954
+555;"Glibstrupvej 29";"6880";"Tarm";55.782391;8.448081
+556;"Rådyrvej 9";"7160";"Tørring";55.8628843;9.4806455
+557;"Ølgodvej 89";"6800";"Varde";55.73587569999999;8.541445399999999
+558;"Vennerslundsvej 9";"4840";"Nørre Alslev";54.8563513;11.8043766
+559;"Nyvej 7";"4250";"Fuglebjerg";55.30579059999999;11.5414791
+560;"Tornholm 3";"6400";"Sønderborg";54.928406;9.726346999999999
+561;"Sortemosen 5";"2690";"Karlslunde";55.578978;12.1916119
+562;"Mølstubvej 26";"9440";"Aabybro";57.07247;9.728819
+563;"Århusvej 266";"8464";"Galten";56.149714;9.953999
+564;"Alstedvej 75";"4173";"Fjenneslev";55.416033;11.688071
+565;"Vestbirkvej 21";"8752";"Østbirk";55.965007;9.740516
+566;"Bækvej 5";"8382";"Hinnerup";56.260362;9.992151999999999
+567;"Norupvej 146";"5450";"Otterup";55.545688;10.391269
+568;"Østerkær Tværvej 2";"9440";"Aabybro";57.078544;9.760332
+569;"Køgevej 92";"4653";"Karise";55.323361;12.22558
+570;"Toldbodgade 13";"6520";"Toftlund";55.19145;9.062419
+571;"Snorupgårdsvej 40";"9240";"Nibe";56.92286499999999;9.648607
+572;"Grundtvigsvej 76";"9900";"Frederikshavn";57.481689;10.47679
+573;"Poppelhøj 21";"2900";"Hellerup";55.724247;12.545639
+574;"Lemvigvej 63";"9220";"Aalborg Øst";57.0318593;9.982896499999999
+575;"Valhøjs Alle 167";"2610";"Rødovre";55.672291;12.4393619
+576;"Amagerbrogade 7";"2300";"København S";55.6680315;12.5972034
+577;"Bredetvedvej 17";"4300";"Holbæk";55.692322;11.7868359
+578;"Strandbakken 6";"4400";"Kalundborg";55.69061749999999;11.044071
+579;"Østergade 7";"8620";"Kjellerup";56.2900372;9.431035999999999
+580;"Houlbjergvej 16";"8870";"Langå";56.3484219;9.8693143
+581;"Bårsevej 23";"4733";"Tappernøje";55.161061;11.931537
+582;"Tingvej 34";"8543";"Hornslet";56.3194902;10.3146032
+583;"Fyensgade 1";"8900";"Randers C";56.464327;10.013483
+584;"Islands Brygge 19";"2300";"København S";55.6672745;12.5776255
+585;"Vejrup Storegade 34";"6740";"Bramming";55.5210574;8.7835886
+586;"Søndergade 75";"9370";"Hals";57.04656499999999;10.369721
+587;"Sagavej 10";"9260";"Gistrup";56.998909;10.00318
+588;"Arnagervej 4";"3700";"Rønne";55.0568179;14.779194
+589;"Alrøvej 374";"8300";"Odder";55.856952;10.067925
+590;"Løget Center 6";"7100";"Vejle";55.675922;9.533814
+591;"Kemitorvet 207";"2800";"Kgs. Lyngby";55.7868361;12.5195478
+592;"Juelsgade 1";"7130";"Juelsminde";55.7142496;10.011776
+593;"Vandmøllevej 5";"6893";"Hemmet";55.845918;8.382083999999999
+594;"Parallelvej 326";"6960";"Hvide Sande";56.026754;8.118862
+595;"Henrikshave 39";"2950";"Vedbæk";55.854414;12.541704
+596;"Strandvejen 425";"6854";"Henne";55.7398311;8.1789706
+597;"Søvangs Alle 21";"2635";"Ishøj";55.6040296;12.3590318
+598;"Øresundshøj 3 A";"2920";"Charlottenlund";55.7560242;12.5929395
+599;"Klostervej 8";"6950";"Ringkøbing";56.120103;8.177802
+600;"Vanggårdsvej 2";"6660";"Lintrup";55.39732799999999;8.938563
+601;"Ellesvinget 20";"2950";"Vedbæk";55.842365;12.527983
+602;"Skovbækvej 1";"4773";"Stensved";54.977892;12.059207
+603;"Skolevej 4";"6880";"Tarm";55.85225800000001;8.7601479
+604;"Næsbyvej 63";"9681";"Ranum";56.901045;9.212855
+605;"Dirch Passers Allé 76";"2000";"Frederiksberg";55.6843368;12.5038298
+606;"Lille Tofteskovvej 3";"7130";"Juelsminde";55.70955;10.007209
+607;"Ribeåvej 22";"7400";"Herning";56.14557199999999;8.935749
+608;"Røndal 13";"5985";"Søby Ærø";54.933393;10.281427
+609;"Egebæksvej 16";"8270";"Højbjerg";56.118745;10.202796
+610;"Vejrup Industrivej 5";"6740";"Bramming";55.521442;8.773394
+611;"Rundforbivej 2";"2950";"Vedbæk";55.8382439;12.5445993
+612;"Røddingevej 60";"4780";"Stege";54.94045500000001;12.159264
+613;"Bagsværd Torv 8";"2880";"Bagsværd";55.7615664;12.4521453
+614;"Bidstrupvej 1";"8870";"Langå";56.347882;9.934718
+615;"Mellemgade 19";"5600";"Faaborg";55.0979294;10.2416485
+616;"Lufthavnsvej 28";"8410";"Rønde";56.2881928;10.5878015
+617;"Nygade 6";"9620";"Aalestrup";56.6920423;9.4965236
+618;"Sæbyvej 147";"9900";"Frederikshavn";57.40901599999999;10.523671
+619;"Stockholmsgade 55";"2100";"København Ø";55.692545;12.583009
+620;"Søndergade 22";"3390";"Hundested";55.946026;11.8614599
+621;"Klarupvej 77";"9270";"Klarup";57.01206570000001;10.0422172
+622;"Trafikhavnskaj 9";"6700";"Esbjerg";55.4691474;8.4330413
+623;"Pile Alle 5 G";"2000";"Frederiksberg";55.6708374;12.5311383
+624;"Klerkegade 10 B";"1308";"København K";55.6865136;12.5849187
+625;"Strandvejen 9 B";"7800";"Skive";56.578087;9.047333
+626;"Vadsbystræde 6";"2640";"Hedehusene";55.677741;12.204971
+627;"Kornblomstvej 13";"9690";"Fjerritslev";57.0986821;9.1629423
+628;"Mølleskovvej 3";"7451";"Sunds";56.2372461;9.0877235
+629;"Tårup Vestergyde 37";"5370";"Mesinge";55.479125;10.62134
+630;"Læssøegade 18";"5000";"Odense C";55.3893926;10.3872992
+631;"Mårkærvej 7";"2630";"Taastrup";55.6587968;12.2913665
+632;"Doravej 4";"9881";"Bindslev";57.583274;10.146856
+633;"H.C. Lumbyes Vej 18";"5270";"Odense N";55.4548421;10.3768733
+634;"Bagsværd Hovedgade 130 A";"2880";"Bagsværd";55.7603244;12.4559058
+635;"Milnersvej 41 A";"3400";"Hillerød";55.9208426;12.294834
+636;"Madikrogvej 41";"8300";"Odder";55.880176;10.152039
+637;"Mosehøjvej 43";"2920";"Charlottenlund";55.761012;12.568051
+638;"Minervavej 31";"6960";"Hvide Sande";56.0184866;8.1187267
+639;"Ellemosevej 65";"3200";"Helsinge";56.030217;12.119779
+640;"Rådhusvej 20 B";"2920";"Charlottenlund";55.7511699;12.5703583
+641;"Sneppevej 25";"8723";"Løsning";55.806241;9.691661999999999
+642;"Krogsgårdsvej 22";"6731";"Tjæreborg";55.474942;8.5569089
+643;"Ølandsvej 7";"4681";"Herfølge";55.426091;12.144371
+644;"Østervej 10";"9881";"Bindslev";57.58682;10.190742
+645;"Oregårdvej 46";"5400";"Bogense";55.520592;10.02037
+646;"Hadsundvej 10";"9510";"Arden";56.76499099999999;9.981423999999999
+647;"Højvangvej 2";"7800";"Skive";56.546991;8.975584999999999
+648;"Assensvej 200";"5500";"Middelfart";55.474616;9.799529
+649;"Vestergade 41";"7400";"Herning";56.1359488;8.9624034
+650;"Finlandsgade 27 D";"8200";"Aarhus N";56.17230199999999;10.19036
+651;"Østerbækvej 4";"6893";"Hemmet";55.832479;8.471447
+652;"Sundvej 1";"2900";"Hellerup";55.7335954;12.58037
+653;"Ribevej 26";"6780";"Skærbæk";55.160402;8.766326
+654;"Centervej 4";"8560";"Kolind";56.4315017;10.3747886
+655;"Kirke Værløsevej 38";"3500";"Værløse";55.78238349999999;12.3593596
+656;"Frydenlund Park 7";"2950";"Vedbæk";55.836216;12.562225
+657;"Ringkøbingvej 181";"7660";"Bækmarksbro";56.4231638;8.3058668
+658;"Kai Lindbergs Gade 47";"7730";"Hanstholm";57.119844;8.6018969
+659;"Bækgårdsvej 53";"4140";"Borup";55.4872878;11.9737828
+660;"Sølvgade 100";"1307";"København K";55.6905132;12.5723041
+661;"Jernbanegade 17";"8830";"Tjele";56.501148;9.751436
+662;"Dyrehavevænget 3";"5800";"Nyborg";55.3007244;10.7813537
+663;"Industrivej 1";"9310";"Vodskov";57.070594;10.140594
+664;"Industrivej 1-5";"5592";"Ejby";55.4409206;9.9454952
+665;"Reventlowsgade 14";"1651";"København V";55.6725416;12.5632291
+666;"Værkmestergade 17";"8000";"Aarhus C";56.1491728;10.2063953
+667;"Finlandsvej 8";"9500";"Hobro";56.6326195;9.814806299999999
+668;"Vestergade 14";"5500";"Middelfart";55.54152999999999;9.763565999999999
+669;"Markedspladsen 15";"5600";"Faaborg";55.100122;10.241555
+670;"Smedeholm 8";"2730";"Herlev";55.722604;12.424639
+671;"Ankerets Kvarter 12 B";"2620";"Albertslund";55.6554448;12.3370689
+672;"Askeengen 144";"2740";"Skovlunde";55.7107652;12.3913186
+673;"Sellerup Strandvej 61";"7080";"Børkop";55.68688299999999;9.672979999999999
+674;"Hobrovej 11";"9530";"Støvring";56.900538;9.84051
+675;"Galgestrømvej 5";"6270";"Tønder";54.950083;8.882617
+676;"Kongstedvej 27";"4293";"Dianalund";55.5595322;11.4825485
+677;"Louis Pios Gade 10 B";"2450";"København SV";55.65088;12.5349924
+678;"Bakkegårdsvej 111";"3050";"Humlebæk";55.966359;12.500138
+679;"Egeskovvej 72";"7000";"Fredericia";55.5744424;9.7536208
+680;"Skjoldsgade 25";"6700";"Esbjerg";55.471365;8.452339
+681;"Hasserisvej 113";"9000";"Aalborg";57.04437799999999;9.897618999999999
+682;"Gl Hovedvej 9";"6740";"Bramming";55.520426;8.799009999999999
+683;"Frederiksberg Alle 15-17";"1820";"Frederiksberg C";55.67286499999999;12.546713
+684;"Scheelsmindevej 35";"9200";"Aalborg SV";57.020053;9.903521999999999
+685;"Pallesvej 59";"2300";"København S";55.65366599999999;12.637598
+686;"Veddingevej 11";"4550";"Asnæs";55.836971;11.481555
+687;"Viaduktvej 32";"6870";"Ølgod";55.814462;8.62806
+688;"Stagehøjvej 1";"8600";"Silkeborg";56.1865122;9.572336199999999
+689;"Bolbrovej 21";"2960";"Rungsted Kyst";55.887565;12.537047
+690;"Bygmestervej 3-5";"9560";"Hadsund";56.7308142;10.1070079
+691;"Strandvejen 7";"6000";"Kolding";55.499654;9.503264999999999
+692;"Rylevej 9";"8600";"Silkeborg";56.167986;9.561942
+693;"Ermelundsvej 46";"2820";"Gentofte";55.76068069999999;12.5366391
+694;"Nedre Kragelundvej 5";"6622";"Bække";55.567711;9.182198
+695;"Fyllestedvej 31";"5464";"Brenderup Fyn";55.47951699999999;10.018043
+696;"Hygildvej 15";"7361";"Ejstrupholm";55.978887;9.208772999999999
+697;"Vossevangen 17";"7600";"Struer";56.5439376;8.5492546
+698;"Bymarksvej 15";"5600";"Faaborg";55.0796893;10.2940617
+699;"Slagelsevej 210";"4700";"Næstved";55.2623505;11.6627195
+700;"Møllevej 1";"8783";"Hornsyld";55.75650899999999;9.855478999999999
+701;"Gammel Kongevej 101";"1850";"Frederiksberg C";55.67509039999999;12.5469052
+702;"Søvej 36";"4230";"Skælskør";55.1673106;11.1588273
+703;"Diget 26";"7500";"Holstebro";56.3904213;8.5832715
+704;"Nørregade 21";"1165";"København K";55.6804563;12.5710001
+705;"Stubdrup Kirkevej 200";"7100";"Vejle";55.64782599999999;9.464883
+706;"Rævevej 1";"7800";"Skive";56.537916;9.028291
+707;"Hostrupsgade 41";"8600";"Silkeborg";56.1661752;9.5459566
+708;"Ove Gjeddes Vej 14";"5220";"Odense SØ";55.385286;10.438656
+709;"Islands Brygge 3";"2300";"København S";55.66899009999999;12.5799199
+710;"Jagtvej 98";"5000";"Odense C";55.3894935;10.3824593
+711;"Møllevej 17";"4140";"Borup";55.4999055;11.9860275
+712;"Vermlandsgade 55";"2300";"København S";55.668133;12.609031
+713;"Lille Torv 5";"3700";"Rønne";55.101;14.700841
+714;"Havnegade 65";"5000";"Odense C";55.4238063;10.3859124
+715;"Bülowsvej 22";"1870";"Frederiksberg C";55.680522;12.543747
+716;"Jernbanegade 1 A";"6650";"Brørup";55.482796;9.016121000000002
+717;"Halmstadgade 6";"8200";"Aarhus N";56.184402;10.191572
+718;"Roskildevej 16";"4030";"Tune";55.595835;12.16807
+719;"Kornmarksvej 6";"2605";"Brøndby";55.655573;12.3767
+720;"Ugerløsevej 29";"4400";"Kalundborg";55.628025;11.153031
+721;"Fosdalvej 31";"9460";"Brovst";57.124223;9.419006
+722;"Sorgenfrivej 18";"2800";"Kgs. Lyngby";55.772066;12.496994
+723;"Ordrupdalvej 16";"2920";"Charlottenlund";55.7611526;12.5709518
+724;"H.C. Andersens Boulevard 5";"1553";"København V";55.678171;12.565892
+725;"Stenløkken 48";"3460";"Birkerød";55.85737719999999;12.4242753
+726;"Vingårdstræde 21";"1070";"København K";55.678414;12.582544
+727;"Engvej 11";"6440";"Augustenborg";54.984248;9.9136236
+728;"Rævehøj 1";"9460";"Brovst";57.144735;9.473574
+729;"Vodskovvej 22";"9310";"Vodskov";57.10325;10.026319
+730;"Stavnsholtvej 35 A";"3520";"Farum";55.8135205;12.3921653
+731;"Barsehøj 20 B";"2900";"Hellerup";55.737044;12.544952
+732;"Sønder Alle 9";"8000";"Aarhus C";56.15305;10.20567
+733;"Niels Ottesens Vej 4";"9990";"Skagen";57.7286371;10.5257077
+734;"Strandvejen 60";"2900";"Hellerup";55.727126;12.57689
+735;"Åboulevarden 37";"8000";"Aarhus C";56.1562876;10.2078568
+736;"Jernaldervej 2";"8300";"Odder";55.986546;10.169546
+737;"Øster Løgumvej 45";"6230";"Rødekro";55.114832;9.428932999999999
+738;"Slagelse Landevej 190";"4242";"Boeslunde";55.302371;11.288589
+739;"V Finderupvej 7";"6900";"Skjern";56.067631;8.476313
+740;"Skovengen 68";"2980";"Kokkedal";55.9099195;12.4931868
+741;"Havremarken 53";"7730";"Hanstholm";57.109271;8.619263
+742;"Lindum Søvej 23";"8830";"Tjele";56.560953;9.715556
+743;"Skebyvej 10";"5450";"Otterup";55.514776;10.419398
+744;"Aprilvænget 24";"6000";"Kolding";55.52611100000001;9.4730139
+745;"Sir Kirkevej 22";"7500";"Holstebro";56.409678;8.599133
+746;"Kagerupbakken 6";"3200";"Helsinge";55.99815299999999;12.262297
+747;"Kalundborgvej 105 A";"4470";"Svebølle";55.675604;11.295468
+748;"Fanøvej 15";"8382";"Hinnerup";56.249418;10.076114
+749;"Selsmosevej 2";"2630";"Taastrup";55.6529858;12.3014381
+750;"Skibbrogade 29";"4400";"Kalundborg";55.6793331;11.0859519
+751;"Holmsland Klitvej 45";"6960";"Hvide Sande";56.037479;8.1158249
+752;"Tåstrupvej 310";"4340";"Tølløse";55.602183;11.716529
+753;"Værkstedsvej 11";"4600";"Køge";55.5026041;12.1910039
+754;"Nørremarksvej 31";"8830";"Tjele";56.461367;9.5297699
+755;"Møllegårdsparken 19";"8355";"Solbjerg";56.0410891;10.0703405
+756;"Stilbjergvej 2 A";"7190";"Billund";55.7366146;9.1005775
+757;"Bøllemosevej 10-12";"3550";"Slangerup";55.8658413;12.2417788
+758;"Kompedalvej 2";"7442";"Engesvang";56.228993;9.316101
+759;"Rugårdsvej 25";"5000";"Odense C";55.399221;10.371701
+760;"Flødalvej 30";"9230";"Svenstrup J";56.9521358;9.8444217
+761;"Elisagårdsvej 24 B";"4000";"Roskilde";55.643569;12.104317
+762;"Kløvervej 3";"6240";"Løgumkloster";55.000151;9.0428
+763;"Amagerbrogade 221";"2300";"København S";55.648394;12.613669
+764;"Mågevej 12";"4100";"Ringsted";55.4391506;11.7988141
+765;"Guldagervej 210";"9760";"Vrå";57.3811168;10.0117539
+766;"Østbanegade 55";"2100";"København Ø";55.699549;12.591325
+767;"Storåvej 19";"7400";"Herning";56.142903;8.934949
+768;"Bjerggårdsvænget 21";"2840";"Holte";55.84211800000001;12.50423
+769;"Nordre Strandvej 350";"3100";"Hornbæk";56.09004210000001;12.4547016
+770;"Mølleager 22";"7100";"Vejle";55.791611;9.578998
+771;"Udsigten 16";"9500";"Hobro";56.6438771;9.7958558
+772;"Valnøddevej 5";"2400";"København NV";55.694841;12.514191
+773;"Tykskovvej 20";"7361";"Ejstrupholm";55.958184;9.225221999999999
+774;"Fuglevænget 13";"6780";"Skærbæk";55.154277;8.76371
+775;"Røjenvej 3";"7451";"Sunds";56.21860599999999;9.009012
+776;"Ungersbjerge 18";"5683";"Haarby";55.189899;10.029336
+777;"Vestergade 72";"8990";"Fårup";56.54053;9.895989
+778;"Tranebærvej 1";"6753";"Agerbæk";55.601597;8.790882
+779;"Herluf Trolles Vej 4";"9900";"Frederikshavn";57.43828610000001;10.5183372
+780;"Nøruplundvej 1";"8400";"Ebeltoft";56.30628;10.692306
+781;"Lindegårdsvej 6";"4070";"Kirke Hyllinge";55.742177;11.936453
+782;"Jernbanegade 2";"7900";"Nykøbing M";56.7940383;8.8572702
+783;"Englandsvej 3";"4800";"Nykøbing F";54.75172999999999;11.885265
+784;"Æblevænget 18 D";"4700";"Næstved";55.1964206;11.7579333
+785;"Åbenrå 31";"1124";"København K";55.6834718;12.5751801
+786;"Klarskovvej 53";"4760";"Vordingborg";55.06693790000001;11.8671233
+787;"Søfrydvej 3";"3300";"Frederiksværk";55.994637;12.036596
+788;"Wesselsgade 24";"2200";"København N";55.6850667;12.5590169
+789;"Bavneåsen 28";"2640";"Hedehusene";55.6600595;12.1933567
+790;"Nydamsvej 8";"8362";"Hørning";56.085497;10.041794
+791;"Gentoftegade 39";"2820";"Gentofte";55.7468806;12.5412261
+792;"Ørnstrupvej 79";"8781";"Stenderup";55.814355;9.809448
+793;"Bredskiftevej 9";"8210";"Aarhus V";56.179922;10.135838
+794;"Bækkebrovej 28";"3220";"Tisvildeleje";56.0337517;12.1038108
+795;"Brændekilde Bygade 55";"5250";"Odense SV";55.348623;10.269695
+796;"Hyldevej 28";"3100";"Hornbæk";56.08478299999999;12.438745
+797;"Egernvej 18";"8680";"Ry";56.0810573;9.765703799999999
+798;"Walgerholm 2-8";"3500";"Værløse";55.762937;12.350039
+799;"Egernvej 12";"6000";"Kolding";55.502347;9.535689999999999
+800;"Kærvænget 17";"8310";"Tranbjerg J";56.086052;10.137783
+801;"Tåruphøjvej 9";"8830";"Tjele";56.537175;9.772003
+802;"Brøkkelhusvej 5";"6500";"Vojens";55.251503;9.382989
+803;"Birkehegnet 14 B";"3140";"Ålsgårde";56.0697324;12.5252479
+804;"Hobrogade 7";"9900";"Frederikshavn";57.45375600000001;10.522265
+805;"Energivej 4";"9300";"Sæby";57.318035;10.4994789
+806;"Kirkeplads 4";"3770";"Allinge";55.275609;14.802689
+807;"Lyngtoften 3";"7850";"Stoholm Jyll";56.4834532;9.1353032
+808;"Astrupvej 1";"8620";"Kjellerup";56.269523;9.442233
+809;"Fladholtvej 10";"9900";"Frederikshavn";57.381392;10.500983
+810;"Berggreensgade 58";"2100";"København Ø";55.71536529999999;12.572963
+811;"Starbakvej 35";"9900";"Frederikshavn";57.4615832;10.4428238
+812;"Rødvig Alle 11";"2650";"Hvidovre";55.647035;12.488025
+813;"Sønderskovgårdvej 2";"6650";"Brørup";55.4517986;9.0390869
+814;"Agersøsundvej 3";"4230";"Skælskør";55.2105748;11.1913533
+815;"Karrebækvej 741";"4736";"Karrebæksminde";55.2016403;11.6653069
+816;"Store Kannikestræde 7";"1169";"København K";55.680913;12.575483
+817;"Bjørnevej 8";"7700";"Thisted";56.962024;8.734432
+818;"Borgergade 4";"6000";"Kolding";55.491578;9.468753999999999
+819;"Bøgealle 4";"3600";"Frederikssund";55.83301960000001;12.0728827
+820;"Ørregårdsvej 1";"8831";"Løgstrup";56.51446499999999;9.308674
+821;"Fastrupvej 8";"7400";"Herning";56.1129699;9.053712599999999
+822;"Landevejen 12";"5932";"Humble";54.781639;10.713426
+823;"Hambros Alle 1";"2900";"Hellerup";55.73840000000001;12.576632
+824;"Holmbladsvej 2";"8600";"Silkeborg";56.19991899999999;9.5637614
+825;"Bredgade 69";"6800";"Varde";55.5843931;8.41311
+826;"Nederbyvej 17";"6300";"Gråsten";54.9013342;9.5720871
+827;"Hoskiærsvej 17";"4900";"Nakskov";54.8331795;11.1457862
+828;"Bygaden 30";"3660";"Stenløse";55.793409;12.26281
+829;"Englandsgade 2";"6700";"Esbjerg";55.4645543;8.453996799999999
+830;"Hvidelvej 16";"7400";"Herning";56.129514;8.931384
+831;"Axeltorv 7";"4700";"Næstved";55.230572;11.757757
+832;"Nordre Toldbod 7";"1259";"København K";55.6886277;12.5985839
+833;"Skivevej 117";"9632";"Møldrup";56.6186026;9.595024
+834;"Skipper Clements Vej 7";"9460";"Brovst";57.087003;9.4865169
+835;"Søbjergvej 81";"7441";"Bording";56.213201;9.180346
+836;"Viborgvej 222 C";"7840";"Højslev";56.5502171;9.110571799999999
+837;"Slotsgade 91";"5953";"Tranekær";55.000367;10.852698
+838;"Egernvej 86";"6000";"Kolding";55.49814439999999;9.5393251
+839;"Lindenborgvej 2";"9800";"Hjørring";57.475314;9.9719415
+840;"Bønderbyvej 29";"6270";"Tønder";54.950847;8.760361
+841;"Viborgvej 218";"8920";"Randers NV";56.469912;9.970049
+842;"Søndersøvej 86";"8800";"Viborg";56.426813;9.414078
+843;"Auderød Byvej 36";"3300";"Frederiksværk";55.97701499999999;12.079048
+844;"Ågårdsskovvej 110";"9690";"Fjerritslev";57.074081;9.294551
+845;"Hovedgaden 75";"9460";"Brovst";57.0826244;9.486677199999999
+846;"Ringsgade 5";"7900";"Nykøbing M";56.7960882;8.862605499999999
+847;"Rudevej 51";"8300";"Odder";55.981187;10.229888
+848;"Skovpibervej 16";"4200";"Slagelse";55.42269;11.201404
+849;"Østerild Byvej 38";"7700";"Thisted";57.02954399999999;8.84751
+850;"Indiavej 1";"2100";"København Ø";55.694837;12.596847
+851;"Peter Bangs Vej 147";"2000";"Frederiksberg";55.6776943;12.4946357
+852;"Viddingherredsgade 16";"6270";"Tønder";54.9314018;8.856903899999999
+853;"Traneholmen 1";"3400";"Hillerød";55.92299629999999;12.3035443
+854;"Bjerrevej 383";"8783";"Hornsyld";55.766558;9.884229
+855;"Vilhelmsborgvej 15";"7700";"Thisted";56.963412;8.724078
+856;"Skanderborgvej 36";"8000";"Aarhus C";56.14153100000001;10.184291
+857;"Møllevænget 6";"9240";"Nibe";56.88338599999999;9.574157999999999
+858;"Lavløkkevej 2";"5210";"Odense NV";55.42796;10.253687
+859;"Nørre Snedevej 11";"8700";"Horsens";55.89150900000001;9.749125
+860;"Kastanievænget 5";"8990";"Fårup";56.551213;9.843212
+861;"Taastrup Hovedgade 99";"2630";"Taastrup";55.6489169;12.3008703
+862;"Bisholt Strandvej 3";"7130";"Juelsminde";55.81359699999999;9.970191
+863;"Hedevej 62";"9575";"Terndrup";56.80432099999999;10.088982
+864;"Nydamsvej 21";"6040";"Egtved";55.621104;9.303856
+865;"Høffdingsvej 45";"2500";"Valby";55.659076;12.5040479
+866;"Værkstedsgården 19";"2620";"Albertslund";55.6624401;12.3411758
+867;"Revelhøjvej 18";"8200";"Aarhus N";56.1940052;10.1392023
+868;"Lindenborgvej 137 A";"4000";"Roskilde";55.641153;11.957685
+869;"Industrivej 25";"8800";"Viborg";56.47008330000001;9.4105889
+870;"Bredgade 209";"9700";"Brønderslev";57.267576;9.968024
+871;"Svanevang 6-8";"3450";"Allerød";55.88391;12.351328
+872;"Alssundvej 2";"6705";"Esbjerg Ø";55.5088823;8.4847101
+873;"Tangsøgade 60";"7650";"Bøvlingbjerg";56.4369003;8.201986
+874;"Skindergade 15";"1159";"København K";55.680369;12.5754935
+875;"Lindholmvej 3";"6980";"Tim";56.196284;8.259848
+876;"Vibeholmsvej 21";"2605";"Brøndby";55.665544;12.417915
+877;"Tinggade 9";"4100";"Ringsted";55.4436319;11.7902871
+878;"Hyldevænget 3";"8830";"Tjele";56.501174;9.747083
+879;"Gammel Kongevej 109";"1850";"Frederiksberg C";55.6753601;12.5455045
+880;"Enebærvej 14";"9440";"Aabybro";57.1634827;9.7449798
+881;"Søndersø Skovvej 66";"5471";"Søndersø";55.45625099999999;10.269213
+882;"Stødstrupvej 34";"4863";"Eskilstrup";54.861376;11.864869
+883;"Gammelager 3";"2605";"Brøndby";55.649657;12.384204
+884;"Alsikevej 35";"8920";"Randers NV";56.488821;10.020974
+885;"Skranderupvej 50";"7900";"Nykøbing M";56.926644;8.860695
+886;"Kornvænget 11";"3550";"Slangerup";55.869069;12.238153
+887;"Nymarksvej 61";"5800";"Nyborg";55.3203174;10.7919295
+888;"Vippelvej 42";"6360";"Tinglev";54.940932;9.212242999999999
+889;"Ahlgade 40 A";"4300";"Holbæk";55.7176542;11.7121088
+890;"Nygade 23";"6270";"Tønder";54.94306899999999;8.869385
+891;"Æblehaven 146";"4000";"Roskilde";55.627904;12.059794
+892;"Vallerød Banevej 3 B";"2960";"Rungsted Kyst";55.8833918;12.5218669
+893;"Gl. Viborgvej 351";"8920";"Randers NV";56.453544;9.849499999999999
+894;"Julsøvej 282";"8600";"Silkeborg";56.129589;9.645698999999999
+895;"Skodsborgvej 335";"2850";"Nærum";55.81770530000001;12.5409678
+896;"Vestensøvej 4";"4200";"Slagelse";55.34081;11.315062
+897;"Godthåbsvej 10";"5953";"Tranekær";55.026925;10.875656
+898;"Cottagevej 16";"2900";"Hellerup";55.741768;12.567791
+899;"Løgstørvej 183";"9610";"Nørager";56.738518;9.586399
+900;"Kronprinsessegade 26";"1306";"København K";55.68405050000001;12.5820154
+901;"Kirkedalsvej 22";"3790";"Hasle";55.200451;14.738725
+902;"Stenager 17";"6400";"Sønderborg";54.9238873;9.809051799999999
+903;"Badstuegade 8";"6100";"Haderslev";55.2484113;9.489683399999999
+904;"Brammingborgvej 22";"6690";"Gørding";55.4824498;8.7586896
+905;"Søndervænget 58";"7870";"Roslev";56.669452;9.022841
+906;"Jægerumvej 13";"9460";"Brovst";57.098554;9.5620809
+907;"Børglumvej 322";"9760";"Vrå";57.34916599999999;9.848309
+908;"Frederiksvej 27";"2000";"Frederiksberg";55.675112;12.515819
+909;"Skolevej 11";"5960";"Marstal";54.8545203;10.5046164
+910;"Ørsholtvej 30 B";"3490";"Kvistgård";56.02380609999999;12.5190383
+911;"Adelgade 68";"5400";"Bogense";55.5650032;10.0916962
+912;"Skoletorvet 1";"8600";"Silkeborg";56.1663697;9.545449099999999
+913;"Strandvejen 13 A";"9000";"Aalborg";57.0527671;9.9145706
+914;"Gl Raklev 35";"4400";"Kalundborg";55.6962728;11.0567304
+915;"Bakkevej 60";"2830";"Virum";55.797045;12.441248
+916;"Barmosevej 29";"4760";"Vordingborg";55.045026;11.882513
+917;"Stakdelen 132";"5220";"Odense SØ";55.318836;10.465215
+918;"Vinkelvej 2";"6100";"Haderslev";55.252846;9.503115
+919;"Lindskovvej 13";"9000";"Aalborg";57.044723;9.867778000000001
+920;"H. Schneekloths Vej 7";"2000";"Frederiksberg";55.67950099999999;12.506703
+921;"Strandvangen 1";"5300";"Kerteminde";55.4592682;10.6562131
+922;"Søndergade 31";"9493";"Saltum";57.2684809;9.6969877
+923;"Rødehusvej 41";"9560";"Hadsund";56.724712;10.020837
+924;"Søndersøvej 74";"8800";"Viborg";56.4321638;9.417468699999999
+925;"Herredsvej 53";"4944";"Fejø";54.9413559;11.383118
+926;"Laurbærvænget 3";"5772";"Kværndrup";55.172619;10.531557
+927;"Årnakke 33";"7900";"Nykøbing M";56.836459;8.839248
+928;"Nørre Torv 1";"7200";"Grindsted";55.758108;8.926795
+929;"Nihøjvej 6";"4720";"Præstø";55.0919341;12.0691541
+930;"Grønlandsvej 6-8";"8700";"Horsens";55.85836500000001;9.850942
+931;"Allegade 6 A";"2000";"Frederiksberg";55.675565;12.5325334
+932;"Hejreskovvej 18";"3490";"Kvistgård";55.9993005;12.5053411
+933;"Norddalsvej 4";"4623";"Lille Skensved";55.512289;12.083479
+934;"Michael Jensens Vej 1";"7400";"Herning";56.1643063;8.9203545
+935;"Mosevej 1";"7173";"Vonge";55.859785;9.405455
+936;"Havneholmen 21";"1561";"København V";55.6609469;12.56269
+937;"Nørrelundvej 8 B";"2730";"Herlev";55.7250378;12.415797
+938;"Stockholmsgade 45";"2100";"København Ø";55.69188699999999;12.5812139
+939;"Juelsmindevej 33";"5463";"Harndrup";55.461652;10.000723
+940;"Kallerupvej 51";"5230";"Odense M";55.3794043;10.4012204
+941;"Sæbygårdvej 32 B";"9300";"Sæby";57.33546;10.5029299
+942;"Ny Rønnebjergvej 114";"9760";"Vrå";57.35049100000001;10.070518
+943;"Oddervej 6";"4571";"Grevinge";55.784057;11.560015
+944;"Aage Beks Vej 1";"8920";"Randers NV";56.4664472;9.9920799
+945;"Mosetoften 31";"2600";"Glostrup";55.702938;12.415354
+946;"Bøgedevej 4 E";"4100";"Ringsted";55.4479445;11.9524111
+947;"Alleshavevej 26";"4593";"Eskebjerg";55.716525;11.2856481
+948;"Kongsbjergvej 38";"2830";"Virum";55.7920843;12.4927623
+949;"Kroghedevej 2 A";"6971";"Spjald";56.13123;8.496525
+950;"Svanstrupholmvej 9";"6261";"Bredebro";55.064288;8.827325
+951;"B.S.Ingemanns Vej 9";"8230";"Åbyhøj";56.153909;10.16297
+952;"Agerlunden 1";"2660";"Brøndby Strand";55.62777;12.416705
+953;"Slotsherrensvej 104";"2720";"Vanløse";55.698175;12.476711
+954;"Nikolaj Plads 26";"1067";"København K";55.6786489;12.5810032
+955;"Edwin Rahrs Vej 80";"8220";"Brabrand";56.165206;10.1079584
+956;"Skæring Parkvej 60";"8250";"Egå";56.23452;10.302284
+957;"Håndværkervej 6";"8881";"Thorsø";56.299286;9.780803900000002
+958;"Tømmerup Stationsvej 9";"2770";"Kastrup";55.6160758;12.6306724
+959;"Guldagervej 11";"9640";"Farsø";56.890758;9.388584999999999
+960;"Torupvej 2";"8860";"Ulstrup";56.410554;9.790894999999999
+961;"Store Torv 3";"8000";"Aarhus C";56.1570708;10.2088618
+962;"Kronborgvej 41";"8970";"Havndal";56.618223;10.2044953
+963;"Birkeholmvej 4";"9520";"Skørping";56.8663;9.887376999999999
+964;"Skibsbakken 18";"5881";"Skårup Fyn";55.068529;10.731992
+965;"Kousgaards Plads 1";"7400";"Herning";56.1369064;8.9799363
+966;"Holmstrupgårdvej 20";"8220";"Brabrand";56.16672;10.121357
+967;"Stendyssevej 14";"6854";"Henne";55.7323017;8.2188827
+968;"Præstegårdsvej 20";"9800";"Hjørring";57.42517400000001;10.135829
+969;"Strandmarksvej 33";"8240";"Risskov";56.1953622;10.2581948
+970;"Aulumvej 14";"7550";"Sørvad";56.26595099999999;8.722870000000002
+971;"Løvenholms Alle 11";"8260";"Viby J";56.1333352;10.1649106
+972;"Fladmosevej 12";"5620";"Glamsbjerg";55.262538;10.115199
+973;"Horsensvej 7";"9520";"Skørping";56.880875;10.01001
+974;"Blenstrupvej 35";"8983";"Gjerlev J";56.592114;10.10948
+975;"Kastanievej 1";"5620";"Glamsbjerg";55.279349;10.096746
+976;"Kongeåvej 70";"6650";"Brørup";55.44466;9.024136
+977;"Bakkehegnet 7";"3500";"Værløse";56.41758549999999;10.8707348
+978;"Rosmosevej 7";"7400";"Herning";56.215428;8.8865839
+979;"Tøttrupvej 3";"9541";"Suldrup";56.839374;9.676471
+980;"Tranbjergvej 6";"6818";"Årre";55.581171;8.681379
+981;"Ålsbovej 2";"5560";"Aarup";55.412212;10.021176
+982;"Spurvevej 87";"9700";"Brønderslev";57.31320599999999;9.911249
+983;"Skovbakkevej 52";"8800";"Viborg";56.470868;9.4413889
+984;"Holstebrovej 97";"6900";"Skjern";56.031409;8.50142
+985;"Dagnæsalle 118";"8700";"Horsens";55.833185;9.850009
+986;"Nørregade 7 A";"1165";"København K";55.6788809;12.5718902
+987;"Hejreskovvej 36";"4173";"Fjenneslev";55.39502599999999;11.661737
+988;"Børglumvej 13";"8240";"Risskov";56.1872193;10.2112709
+989;"Elmevej 6 A";"2950";"Vedbæk";55.8630262;12.5528342
+990;"Bavsøvej 25";"9632";"Møldrup";56.63104999999999;9.578814
+991;"Reinsholmvej 4";"3370";"Melby";55.9992099;11.9792891
+992;"Mars Alle 7";"2860";"Søborg";55.729374;12.50772
+993;"Rodosvej 65";"2300";"København S";55.651719;12.619843
+994;"L.P. Houmøllers Vej 23";"9900";"Frederikshavn";57.42459479999999;10.5118384
+995;"Halsvej 304";"9310";"Vodskov";57.060815;10.144977
+996;"Vollerslevvej 47";"4100";"Ringsted";55.424173;12.015807
+997;"Vingårdsgade 16-20";"9000";"Aalborg";57.0475203;9.9172769
+998;"Bækkeskov Alle 1";"4733";"Tappernøje";55.1906687;12.0150752
+999;"Trykkerivej 4";"6900";"Skjern";55.951366;8.516045
+1000;"Østergade 24";"1100";"København K";55.67994599999999;12.58305
+1001;"Ellehammervej 8";"9900";"Frederikshavn";57.4475211;10.4959958
+1002;"Holstebrovej 29";"7830";"Vinderup";56.444078;8.731989
+1003;"Livøvej 10 B";"8800";"Viborg";56.45012639999999;9.3682854
+1004;"Mindegade 9";"7400";"Herning";56.13477899999999;8.974750199999999
+1005;"Veksøvej 89";"2700";"Brønshøj";55.702504;12.475949
+1006;"Haraldstedvej 33";"4100";"Ringsted";55.497805;11.7549105
+1007;"Christiansrovej 7";"2930";"Klampenborg";55.78670640000001;12.5951836
+1008;"Lindevej 11";"4700";"Næstved";55.22465;11.762427
+1009;"Skodsborgvej 187";"2850";"Nærum";55.813751;12.513957
+1010;"Stormgade 20";"1555";"København V";55.67401;12.572323
+1011;"Vandværksvej 6";"6340";"Kruså";54.8931787;9.4431104
+1012;"Åvænget 9 A";"5463";"Harndrup";55.46393699999999;10.02218
+1013;"Hestbjergvej 10";"7500";"Holstebro";56.2870588;8.554486299999999
+1014;"Stabelbjergvej 3 A";"8420";"Knebel";56.1806928;10.4206473
+1015;"Emil Neckelmanns Vej 11";"5220";"Odense SØ";55.3643529;10.4927484
+1016;"Hammerensgade 6";"1267";"København K";55.68837019999999;12.5909958
+1017;"Blomstervej 4 A";"8210";"Aarhus V";55.522493;11.399461
+1018;"Jacob Kjelds Vej 9";"9900";"Frederikshavn";57.44605300000001;10.526261
+1019;"Plastvænget 15-19";"9560";"Hadsund";56.731485;10.0970739
+1020;"Stationsparken 24";"2600";"Glostrup";55.662338;12.398072
+1021;"Industrivej Syd 1";"6600";"Vejen";55.47281599999999;9.161353
+1022;"Præstegårdsvænget 8";"7755";"Bedsted Thy";56.822426;8.390611
+1023;"Sorgenfri Torv 7";"2830";"Virum";55.78110239999999;12.4824083
+1024;"Klampenborgvej 35 C";"2930";"Klampenborg";55.77026770000001;12.5744448
+1025;"Kaldalvej 9";"9550";"Mariager";56.622381;10.070797
+1026;"Aldrupvej 292";"9690";"Fjerritslev";57.115982;9.349509
+1027;"Algade 143";"4760";"Vordingborg";55.0068316;11.9174098
+1028;"Arnesvej 1";"2700";"Brønshøj";55.7050456;12.5051425
+1029;"Rørholmsgade 18";"1352";"København K";55.68998999999999;12.5720088
+1030;"Pantheonsgade 12";"5000";"Odense C";55.39531909999999;10.3800024
+1031;"Saxovej 6";"8960";"Randers SØ";56.44458400000001;10.071534
+1032;"Kongensgade 18";"6700";"Esbjerg";55.4656221;8.454768800000002
+1033;"Vangedevej 187";"2870";"Dyssegård";55.734098;12.524542
+1034;"Finsensgade 34";"6700";"Esbjerg";55.4722841;8.4558803
+1035;"Balgårdsvej 65";"8990";"Fårup";56.554104;9.942364999999999
+1036;"Sct Peders Gade 16";"6760";"Ribe";55.33087;8.763290999999999
+1037;"Gødsbølvej 57";"7184";"Vandel";55.751889;9.2026039
+1038;"Heimdalsvej 14";"5500";"Middelfart";55.4761871;9.8118661
+1039;"Ll Røttingevej 1";"4733";"Tappernøje";55.16693;11.968718
+1040;"Maltegårdsvej 18";"2820";"Gentofte";55.750391;12.5541509

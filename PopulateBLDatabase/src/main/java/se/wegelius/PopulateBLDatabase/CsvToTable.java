@@ -124,10 +124,11 @@ public class CsvToTable {
 				String company_code = line.substring(0, line.indexOf(cvsSplitBy)).trim();
 				// remove company code from line
 				line = line.substring(line.indexOf(cvsSplitBy) + 1, line.length());
-				String street = line.substring(0,line.indexOf(cvsSplitBy)).trim();
+				String street = line.substring(0, line.indexOf(cvsSplitBy)).trim();
 				// remove street from line
 				line = line.substring(line.indexOf(cvsSplitBy) + 1, line.length());
-				//String zip = line.substring(0, line.indexOf(cvsSplitBy)).trim();
+				// String zip = line.substring(0,
+				// line.indexOf(cvsSplitBy)).trim();
 				// remove zip from line
 				line = line.substring(line.indexOf(cvsSplitBy) + 1, line.length());
 				String district = line;
@@ -187,4 +188,123 @@ public class CsvToTable {
 		System.out.println("Done");
 	}
 
+	public void importLocFromOldTable() {
+		String csvFile = "files/address_with_location.txt";
+		BufferedReader br = null;
+		String line = "";
+		String cvsSplitBy = ";";
+		String query1 = "update address set latitude=?,longitude=? where street=? and district=?;";
+		PreparedStatement pstmt1 = null;
+		Connection connection = null;
+		try {
+			connection = DBConnect.getConnection();
+		} catch (Exception e) {
+			System.err.println("There was an error getting the connection");
+		}
+		try {
+			connection.setAutoCommit(false);
+			System.err.println("The autocommit was disabled!");
+		} catch (SQLException e) {
+			System.err.println("There was an error disabling autocommit");
+		}
+		try {
+			br = new BufferedReader(new FileReader(csvFile));
+		} catch (IOException e) {
+			System.err.println("There was an error getting the buffert reader");
+		}
+		try {
+			while ((line = br.readLine()) != null) {
+				try {
+					pstmt1 = connection.prepareStatement(query1);
+					String lat = line.substring(line.lastIndexOf(cvsSplitBy) + 1, line.length());
+					Double latitude = new Double(lat).doubleValue();
+					line = line.substring(0, line.lastIndexOf(cvsSplitBy));
+					String lng = line.substring(line.lastIndexOf(cvsSplitBy) + 1, line.length());
+					Double longitude = new Double(lng).doubleValue();
+					line = line.substring(0, line.lastIndexOf(cvsSplitBy));
+					String district = line.substring(line.lastIndexOf(cvsSplitBy) + 2, line.length()-1);
+					line = line.substring(0, line.lastIndexOf(cvsSplitBy));
+					line = line.substring(0, line.lastIndexOf(cvsSplitBy));
+					String street = line.substring(line.lastIndexOf(cvsSplitBy) + 2, line.length()-1);
+					pstmt1.setDouble(1, latitude);
+					pstmt1.setDouble(2, longitude);
+					pstmt1.setString(3, street);
+					pstmt1.setString(4, district);
+					pstmt1.execute();
+					connection.commit();
+					//System.out.println("street " + street + " district " + district + "lat " + lat + " long " + lng);
+					System.err.println("The transaction was successfully executed");
+				} catch (SQLException e) {
+					try {
+						// We rollback the transaction, atomicity!
+						connection.rollback();
+						System.err.println(e.getMessage());
+						System.err.println("The transaction was rollback");
+					} catch (SQLException e1) {
+						System.err.println("There was an error making a rollback");
+					}
+				}
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	public void addMainBranch(){
+		String csvFile = "files/branch_main_companies.txt";
+		BufferedReader br = null;
+		String line = "";
+		String cvsSplitBy = ";";
+		String query1 = "update company set c_main_branch_id=? where company_code=?";
+		PreparedStatement pstmt1 = null;
+		Connection connection = null;		
+		try {
+			connection = DBConnect.getConnection();
+		} catch (Exception e) {
+			System.err.println("There was an error getting the connection");
+		}
+		try {
+			connection.setAutoCommit(false);
+			System.err.println("The autocommit was disabled!");
+		} catch (SQLException e) {
+			System.err.println("There was an error disabling autocommit");
+		}
+		try {
+			br = new BufferedReader(new FileReader(csvFile));
+		} catch (IOException e) {
+			System.err.println("There was an error getting the buffert reader");
+		}	
+		try {
+			while ((line = br.readLine()) != null) {
+				try {
+					pstmt1 = connection.prepareStatement(query1);
+					// cut the description
+					line = line.substring(0, line.lastIndexOf(cvsSplitBy));
+					String branch_code = line.substring(line.lastIndexOf(cvsSplitBy) + 1, line.length());
+					// cut the branch code
+					line = line.substring(0, line.lastIndexOf(cvsSplitBy));
+					String cvr = line.substring(line.lastIndexOf(cvsSplitBy) + 1, line.length());
+					pstmt1.setString(1, branch_code);
+					pstmt1.setString(2, cvr);
+					pstmt1.execute();
+					connection.commit();
+					System.err.println("The transaction was successfully executed");
+				} catch (SQLException e) {
+					try {
+						// We rollback the transaction, atomicity!
+						connection.rollback();
+						System.err.println(e.getMessage());
+						System.err.println("The transaction was rollback");
+					} catch (SQLException e1) {
+						System.err.println("There was an error making a rollback");
+					}
+				}
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
 }
